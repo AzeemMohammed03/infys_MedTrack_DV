@@ -1,0 +1,1001 @@
+Hospital_ID,Hospital_Name,Department_Name,Total_Beds,Occupied_Beds,Available_Medical_Equipment,Staff_Allocation_Count,Region
+H001,Apollo Hospitals - Delhi,Cardiology,191,116,62,31,East
+H001,Apollo Hospitals - Delhi,Neurology,118,104,64,69,East
+H001,Apollo Hospitals - Delhi,Orthopedics,172,88,17,87,East
+H001,Apollo Hospitals - Delhi,Emergency,160,51,16,81,North
+H001,Apollo Hospitals - Delhi,Pediatrics,138,34,22,52,North
+H001,Apollo Hospitals - Delhi,ICU,85,41,37,101,East
+H001,Apollo Hospitals - Delhi,Oncology,190,126,11,68,East
+H001,Apollo Hospitals - Delhi,Radiology,173,105,55,42,South
+H001,Apollo Hospitals - Delhi,General Medicine,190,112,12,96,East
+H001,Apollo Hospitals - Delhi,Dermatology,113,47,65,22,East
+H002,Fortis Hospital - Mumbai,Cardiology,176,151,46,88,West
+H002,Fortis Hospital - Mumbai,Neurology,56,54,23,83,East
+H002,Fortis Hospital - Mumbai,Orthopedics,122,76,50,76,West
+H002,Fortis Hospital - Mumbai,Emergency,173,53,65,103,South
+H002,Fortis Hospital - Mumbai,Pediatrics,151,23,14,84,West
+H002,Fortis Hospital - Mumbai,ICU,99,26,38,74,East
+H002,Fortis Hospital - Mumbai,Oncology,197,28,69,79,East
+H002,Fortis Hospital - Mumbai,Radiology,148,132,42,47,South
+H002,Fortis Hospital - Mumbai,General Medicine,116,20,68,26,East
+H002,Fortis Hospital - Mumbai,Dermatology,126,63,13,34,South
+H003,Max Super Speciality Hospital - Hyderabad,Cardiology,92,44,47,49,North
+H003,Max Super Speciality Hospital - Hyderabad,Neurology,160,54,72,109,East
+H003,Max Super Speciality Hospital - Hyderabad,Orthopedics,199,128,38,32,East
+H003,Max Super Speciality Hospital - Hyderabad,Emergency,100,52,12,117,South
+H003,Max Super Speciality Hospital - Hyderabad,Pediatrics,140,134,25,106,North
+H003,Max Super Speciality Hospital - Hyderabad,ICU,71,41,76,60,South
+H003,Max Super Speciality Hospital - Hyderabad,Oncology,137,46,31,46,North
+H003,Max Super Speciality Hospital - Hyderabad,Radiology,51,48,76,110,East
+H003,Max Super Speciality Hospital - Hyderabad,General Medicine,160,141,75,108,East
+H003,Max Super Speciality Hospital - Hyderabad,Dermatology,147,56,14,67,East
+H004,Manipal Hospital - Chennai,Cardiology,74,21,21,31,West
+H004,Manipal Hospital - Chennai,Neurology,140,131,75,42,West
+H004,Manipal Hospital - Chennai,Orthopedics,82,45,39,115,East
+H004,Manipal Hospital - Chennai,Emergency,51,25,75,89,North
+H004,Manipal Hospital - Chennai,Pediatrics,112,92,66,111,West
+H004,Manipal Hospital - Chennai,ICU,105,33,80,29,South
+H004,Manipal Hospital - Chennai,Oncology,158,40,55,115,North
+H004,Manipal Hospital - Chennai,Radiology,89,34,44,87,South
+H004,Manipal Hospital - Chennai,General Medicine,177,163,27,79,West
+H004,Manipal Hospital - Chennai,Dermatology,96,54,36,96,East
+H005,Narayana Health - Bengaluru,Cardiology,150,79,57,77,North
+H005,Narayana Health - Bengaluru,Neurology,176,155,61,101,South
+H005,Narayana Health - Bengaluru,Orthopedics,121,55,70,49,West
+H005,Narayana Health - Bengaluru,Emergency,113,62,68,34,East
+H005,Narayana Health - Bengaluru,Pediatrics,154,67,67,53,West
+H005,Narayana Health - Bengaluru,ICU,192,71,25,108,North
+H005,Narayana Health - Bengaluru,Oncology,153,38,26,51,South
+H005,Narayana Health - Bengaluru,Radiology,148,133,75,33,South
+H005,Narayana Health - Bengaluru,General Medicine,67,41,55,54,South
+H005,Narayana Health - Bengaluru,Dermatology,96,76,41,95,West
+H006,Yashoda Hospitals - Kolkata,Cardiology,155,25,44,106,North
+H006,Yashoda Hospitals - Kolkata,Neurology,104,63,79,88,West
+H006,Yashoda Hospitals - Kolkata,Orthopedics,61,33,60,54,South
+H006,Yashoda Hospitals - Kolkata,Emergency,78,35,57,92,North
+H006,Yashoda Hospitals - Kolkata,Pediatrics,142,51,26,84,West
+H006,Yashoda Hospitals - Kolkata,ICU,155,102,53,53,East
+H006,Yashoda Hospitals - Kolkata,Oncology,49,46,11,56,South
+H006,Yashoda Hospitals - Kolkata,Radiology,57,20,72,95,East
+H006,Yashoda Hospitals - Kolkata,General Medicine,157,124,10,28,West
+H006,Yashoda Hospitals - Kolkata,Dermatology,146,136,59,107,West
+H007,Aster CMI Hospital - Pune,Cardiology,186,72,33,83,South
+H007,Aster CMI Hospital - Pune,Neurology,139,101,14,119,West
+H007,Aster CMI Hospital - Pune,Orthopedics,188,152,15,111,West
+H007,Aster CMI Hospital - Pune,Emergency,176,173,33,22,West
+H007,Aster CMI Hospital - Pune,Pediatrics,187,150,40,109,South
+H007,Aster CMI Hospital - Pune,ICU,173,38,11,33,South
+H007,Aster CMI Hospital - Pune,Oncology,143,132,26,55,North
+H007,Aster CMI Hospital - Pune,Radiology,169,68,20,98,East
+H007,Aster CMI Hospital - Pune,General Medicine,78,65,58,53,West
+H007,Aster CMI Hospital - Pune,Dermatology,163,93,42,61,West
+H008,KIMS Hospitals - Ahmedabad,Cardiology,89,42,28,102,East
+H008,KIMS Hospitals - Ahmedabad,Neurology,45,31,49,103,West
+H008,KIMS Hospitals - Ahmedabad,Orthopedics,159,153,76,104,East
+H008,KIMS Hospitals - Ahmedabad,Emergency,168,162,11,116,East
+H008,KIMS Hospitals - Ahmedabad,Pediatrics,187,104,43,81,East
+H008,KIMS Hospitals - Ahmedabad,ICU,86,20,13,36,South
+H008,KIMS Hospitals - Ahmedabad,Oncology,97,58,38,104,West
+H008,KIMS Hospitals - Ahmedabad,Radiology,64,38,32,110,East
+H008,KIMS Hospitals - Ahmedabad,General Medicine,89,84,75,27,North
+H008,KIMS Hospitals - Ahmedabad,Dermatology,102,79,32,104,East
+H009,Medanta - Lucknow,Cardiology,195,60,78,90,East
+H009,Medanta - Lucknow,Neurology,48,45,61,97,West
+H009,Medanta - Lucknow,Orthopedics,121,82,38,87,East
+H009,Medanta - Lucknow,Emergency,99,79,50,33,South
+H009,Medanta - Lucknow,Pediatrics,78,20,72,37,North
+H009,Medanta - Lucknow,ICU,121,121,79,101,North
+H009,Medanta - Lucknow,Oncology,124,69,10,42,South
+H009,Medanta - Lucknow,Radiology,78,37,73,103,North
+H009,Medanta - Lucknow,General Medicine,99,41,20,50,South
+H009,Medanta - Lucknow,Dermatology,158,156,12,27,West
+H010,AIIMS Delhi - Vijayawada,Cardiology,177,99,11,98,West
+H010,AIIMS Delhi - Vijayawada,Neurology,111,38,39,91,East
+H010,AIIMS Delhi - Vijayawada,Orthopedics,123,66,15,76,South
+H010,AIIMS Delhi - Vijayawada,Emergency,84,20,14,108,South
+H010,AIIMS Delhi - Vijayawada,Pediatrics,72,71,48,54,North
+H010,AIIMS Delhi - Vijayawada,ICU,96,25,59,32,North
+H010,AIIMS Delhi - Vijayawada,Oncology,171,114,50,104,West
+H010,AIIMS Delhi - Vijayawada,Radiology,54,37,25,94,South
+H010,AIIMS Delhi - Vijayawada,General Medicine,144,52,10,116,West
+H010,AIIMS Delhi - Vijayawada,Dermatology,110,32,57,33,North
+H011,Care Hospitals - Delhi,Cardiology,170,54,33,41,East
+H011,Care Hospitals - Delhi,Neurology,68,34,31,115,East
+H011,Care Hospitals - Delhi,Orthopedics,55,24,13,36,South
+H011,Care Hospitals - Delhi,Emergency,85,44,30,112,North
+H011,Care Hospitals - Delhi,Pediatrics,95,92,27,111,East
+H011,Care Hospitals - Delhi,ICU,169,50,46,43,West
+H011,Care Hospitals - Delhi,Oncology,99,60,14,42,South
+H011,Care Hospitals - Delhi,Radiology,65,65,44,120,North
+H011,Care Hospitals - Delhi,General Medicine,140,128,21,26,North
+H011,Care Hospitals - Delhi,Dermatology,193,168,53,48,South
+H012,Rainbow Children's Hospital - Mumbai,Cardiology,63,20,52,98,West
+H012,Rainbow Children's Hospital - Mumbai,Neurology,168,96,32,104,North
+H012,Rainbow Children's Hospital - Mumbai,Orthopedics,115,103,41,101,East
+H012,Rainbow Children's Hospital - Mumbai,Emergency,70,65,48,108,North
+H012,Rainbow Children's Hospital - Mumbai,Pediatrics,199,166,69,97,North
+H012,Rainbow Children's Hospital - Mumbai,ICU,164,124,40,22,North
+H012,Rainbow Children's Hospital - Mumbai,Oncology,192,187,23,33,East
+H012,Rainbow Children's Hospital - Mumbai,Radiology,110,46,24,75,West
+H012,Rainbow Children's Hospital - Mumbai,General Medicine,53,25,47,34,North
+H012,Rainbow Children's Hospital - Mumbai,Dermatology,117,106,76,37,North
+H013,Artemis Hospital - Hyderabad,Cardiology,144,53,54,68,South
+H013,Artemis Hospital - Hyderabad,Neurology,200,27,13,98,South
+H013,Artemis Hospital - Hyderabad,Orthopedics,85,83,34,75,East
+H013,Artemis Hospital - Hyderabad,Emergency,77,61,36,98,West
+H013,Artemis Hospital - Hyderabad,Pediatrics,73,43,26,26,East
+H013,Artemis Hospital - Hyderabad,ICU,136,64,62,108,West
+H013,Artemis Hospital - Hyderabad,Oncology,198,44,64,76,North
+H013,Artemis Hospital - Hyderabad,Radiology,76,49,49,54,North
+H013,Artemis Hospital - Hyderabad,General Medicine,64,34,12,64,West
+H013,Artemis Hospital - Hyderabad,Dermatology,73,40,35,51,South
+H014,Kauvery Hospital - Chennai,Cardiology,119,118,68,25,West
+H014,Kauvery Hospital - Chennai,Neurology,90,22,60,91,West
+H014,Kauvery Hospital - Chennai,Orthopedics,180,150,70,90,West
+H014,Kauvery Hospital - Chennai,Emergency,69,56,33,27,South
+H014,Kauvery Hospital - Chennai,Pediatrics,76,54,54,56,North
+H014,Kauvery Hospital - Chennai,ICU,108,21,28,71,North
+H014,Kauvery Hospital - Chennai,Oncology,149,119,76,104,East
+H014,Kauvery Hospital - Chennai,Radiology,121,107,17,32,East
+H014,Kauvery Hospital - Chennai,General Medicine,150,53,31,63,East
+H014,Kauvery Hospital - Chennai,Dermatology,172,49,12,72,North
+H015,Sri Ramachandra Medical Centre - Bengaluru,Cardiology,114,62,79,43,West
+H015,Sri Ramachandra Medical Centre - Bengaluru,Neurology,180,36,46,80,North
+H015,Sri Ramachandra Medical Centre - Bengaluru,Orthopedics,127,104,65,58,West
+H015,Sri Ramachandra Medical Centre - Bengaluru,Emergency,64,50,28,94,North
+H015,Sri Ramachandra Medical Centre - Bengaluru,Pediatrics,83,71,75,32,East
+H015,Sri Ramachandra Medical Centre - Bengaluru,ICU,102,48,44,65,South
+H015,Sri Ramachandra Medical Centre - Bengaluru,Oncology,89,89,48,46,North
+H015,Sri Ramachandra Medical Centre - Bengaluru,Radiology,196,183,27,73,West
+H015,Sri Ramachandra Medical Centre - Bengaluru,General Medicine,169,150,35,46,North
+H015,Sri Ramachandra Medical Centre - Bengaluru,Dermatology,52,31,16,84,East
+H016,Christian Medical College Vellore - Kolkata,Cardiology,79,22,56,71,East
+H016,Christian Medical College Vellore - Kolkata,Neurology,126,98,77,21,South
+H016,Christian Medical College Vellore - Kolkata,Orthopedics,106,52,16,63,East
+H016,Christian Medical College Vellore - Kolkata,Emergency,151,111,56,30,West
+H016,Christian Medical College Vellore - Kolkata,Pediatrics,105,51,54,24,East
+H016,Christian Medical College Vellore - Kolkata,ICU,115,110,48,110,South
+H016,Christian Medical College Vellore - Kolkata,Oncology,44,38,57,55,East
+H016,Christian Medical College Vellore - Kolkata,Radiology,133,54,21,43,South
+H016,Christian Medical College Vellore - Kolkata,General Medicine,58,26,67,109,East
+H016,Christian Medical College Vellore - Kolkata,Dermatology,189,95,44,36,South
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Cardiology,171,80,28,99,East
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Neurology,168,137,47,39,West
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Orthopedics,193,125,38,20,East
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Emergency,197,102,53,22,East
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Pediatrics,153,117,46,28,West
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,ICU,90,89,80,41,North
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Oncology,43,43,53,112,South
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Radiology,129,33,31,33,North
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,General Medicine,169,92,58,40,South
+H017,Kokilaben Dhirubhai Ambani Hospital - Pune,Dermatology,66,25,65,68,East
+H018,Gleneagles Global Hospital - Ahmedabad,Cardiology,134,69,38,100,West
+H018,Gleneagles Global Hospital - Ahmedabad,Neurology,96,20,16,107,East
+H018,Gleneagles Global Hospital - Ahmedabad,Orthopedics,89,45,50,94,North
+H018,Gleneagles Global Hospital - Ahmedabad,Emergency,60,42,60,57,North
+H018,Gleneagles Global Hospital - Ahmedabad,Pediatrics,157,113,52,111,West
+H018,Gleneagles Global Hospital - Ahmedabad,ICU,185,93,21,53,West
+H018,Gleneagles Global Hospital - Ahmedabad,Oncology,153,73,53,99,South
+H018,Gleneagles Global Hospital - Ahmedabad,Radiology,169,69,59,39,East
+H018,Gleneagles Global Hospital - Ahmedabad,General Medicine,161,137,43,109,North
+H018,Gleneagles Global Hospital - Ahmedabad,Dermatology,140,35,64,66,West
+H019,HCG Cancer Centre - Lucknow,Cardiology,140,116,50,79,West
+H019,HCG Cancer Centre - Lucknow,Neurology,119,21,60,47,South
+H019,HCG Cancer Centre - Lucknow,Orthopedics,138,65,53,85,West
+H019,HCG Cancer Centre - Lucknow,Emergency,69,48,24,30,North
+H019,HCG Cancer Centre - Lucknow,Pediatrics,148,124,68,93,West
+H019,HCG Cancer Centre - Lucknow,ICU,193,77,33,55,West
+H019,HCG Cancer Centre - Lucknow,Oncology,79,34,49,56,South
+H019,HCG Cancer Centre - Lucknow,Radiology,148,64,74,60,North
+H019,HCG Cancer Centre - Lucknow,General Medicine,128,73,33,111,South
+H019,HCG Cancer Centre - Lucknow,Dermatology,167,92,66,77,East
+H020,JIPMER Hospital - Vijayawada,Cardiology,57,51,37,48,South
+H020,JIPMER Hospital - Vijayawada,Neurology,146,114,17,34,North
+H020,JIPMER Hospital - Vijayawada,Orthopedics,160,157,64,81,West
+H020,JIPMER Hospital - Vijayawada,Emergency,51,43,37,56,East
+H020,JIPMER Hospital - Vijayawada,Pediatrics,49,26,52,90,North
+H020,JIPMER Hospital - Vijayawada,ICU,149,112,49,98,North
+H020,JIPMER Hospital - Vijayawada,Oncology,200,193,60,33,East
+H020,JIPMER Hospital - Vijayawada,Radiology,137,58,80,120,West
+H020,JIPMER Hospital - Vijayawada,General Medicine,136,20,76,105,East
+H020,JIPMER Hospital - Vijayawada,Dermatology,155,120,49,74,North
+H021,Apollo Hospitals - Delhi,Cardiology,92,68,35,104,South
+H021,Apollo Hospitals - Delhi,Neurology,112,36,78,119,West
+H021,Apollo Hospitals - Delhi,Orthopedics,143,42,28,83,North
+H021,Apollo Hospitals - Delhi,Emergency,199,180,28,31,West
+H021,Apollo Hospitals - Delhi,Pediatrics,97,72,59,115,East
+H021,Apollo Hospitals - Delhi,ICU,151,127,68,49,North
+H021,Apollo Hospitals - Delhi,Oncology,136,136,15,82,South
+H021,Apollo Hospitals - Delhi,Radiology,167,146,30,120,South
+H021,Apollo Hospitals - Delhi,General Medicine,145,67,67,72,North
+H021,Apollo Hospitals - Delhi,Dermatology,106,78,65,72,East
+H022,Fortis Hospital - Mumbai,Cardiology,160,50,63,52,North
+H022,Fortis Hospital - Mumbai,Neurology,80,30,60,34,South
+H022,Fortis Hospital - Mumbai,Orthopedics,90,52,42,63,West
+H022,Fortis Hospital - Mumbai,Emergency,84,54,43,96,North
+H022,Fortis Hospital - Mumbai,Pediatrics,156,130,44,88,South
+H022,Fortis Hospital - Mumbai,ICU,148,44,48,87,North
+H022,Fortis Hospital - Mumbai,Oncology,46,38,53,102,West
+H022,Fortis Hospital - Mumbai,Radiology,171,38,41,46,North
+H022,Fortis Hospital - Mumbai,General Medicine,165,23,38,100,South
+H022,Fortis Hospital - Mumbai,Dermatology,69,42,60,117,West
+H023,Max Super Speciality Hospital - Hyderabad,Cardiology,163,22,53,44,South
+H023,Max Super Speciality Hospital - Hyderabad,Neurology,50,37,52,31,South
+H023,Max Super Speciality Hospital - Hyderabad,Orthopedics,179,118,17,70,West
+H023,Max Super Speciality Hospital - Hyderabad,Emergency,86,59,80,97,East
+H023,Max Super Speciality Hospital - Hyderabad,Pediatrics,146,114,21,28,North
+H023,Max Super Speciality Hospital - Hyderabad,ICU,89,21,79,95,West
+H023,Max Super Speciality Hospital - Hyderabad,Oncology,131,87,59,47,North
+H023,Max Super Speciality Hospital - Hyderabad,Radiology,106,27,47,118,East
+H023,Max Super Speciality Hospital - Hyderabad,General Medicine,65,44,19,70,West
+H023,Max Super Speciality Hospital - Hyderabad,Dermatology,65,32,10,70,South
+H024,Manipal Hospital - Chennai,Cardiology,123,56,77,64,South
+H024,Manipal Hospital - Chennai,Neurology,186,127,21,100,North
+H024,Manipal Hospital - Chennai,Orthopedics,114,85,12,85,North
+H024,Manipal Hospital - Chennai,Emergency,120,103,71,53,West
+H024,Manipal Hospital - Chennai,Pediatrics,132,87,42,120,North
+H024,Manipal Hospital - Chennai,ICU,83,58,41,84,West
+H024,Manipal Hospital - Chennai,Oncology,57,33,78,96,South
+H024,Manipal Hospital - Chennai,Radiology,157,78,53,105,East
+H024,Manipal Hospital - Chennai,General Medicine,107,107,44,63,North
+H024,Manipal Hospital - Chennai,Dermatology,127,114,66,45,North
+H025,Narayana Health - Bengaluru,Cardiology,71,57,51,36,West
+H025,Narayana Health - Bengaluru,Neurology,59,37,55,106,West
+H025,Narayana Health - Bengaluru,Orthopedics,172,63,47,67,West
+H025,Narayana Health - Bengaluru,Emergency,148,78,65,47,North
+H025,Narayana Health - Bengaluru,Pediatrics,131,34,27,86,North
+H025,Narayana Health - Bengaluru,ICU,145,45,66,99,West
+H025,Narayana Health - Bengaluru,Oncology,98,31,68,51,South
+H025,Narayana Health - Bengaluru,Radiology,90,65,60,90,South
+H025,Narayana Health - Bengaluru,General Medicine,140,93,52,77,North
+H025,Narayana Health - Bengaluru,Dermatology,55,27,52,106,North
+H026,Yashoda Hospitals - Kolkata,Cardiology,102,54,36,35,West
+H026,Yashoda Hospitals - Kolkata,Neurology,79,59,32,45,East
+H026,Yashoda Hospitals - Kolkata,Orthopedics,143,43,25,50,East
+H026,Yashoda Hospitals - Kolkata,Emergency,89,50,57,77,North
+H026,Yashoda Hospitals - Kolkata,Pediatrics,84,22,51,82,East
+H026,Yashoda Hospitals - Kolkata,ICU,197,52,18,48,West
+H026,Yashoda Hospitals - Kolkata,Oncology,40,32,74,43,West
+H026,Yashoda Hospitals - Kolkata,Radiology,74,70,75,77,North
+H026,Yashoda Hospitals - Kolkata,General Medicine,76,36,57,71,East
+H026,Yashoda Hospitals - Kolkata,Dermatology,123,117,39,35,North
+H027,Aster CMI Hospital - Pune,Cardiology,160,121,17,81,North
+H027,Aster CMI Hospital - Pune,Neurology,43,41,59,25,West
+H027,Aster CMI Hospital - Pune,Orthopedics,159,98,43,49,East
+H027,Aster CMI Hospital - Pune,Emergency,190,77,45,66,West
+H027,Aster CMI Hospital - Pune,Pediatrics,58,46,24,66,West
+H027,Aster CMI Hospital - Pune,ICU,92,51,59,22,West
+H027,Aster CMI Hospital - Pune,Oncology,60,21,20,51,South
+H027,Aster CMI Hospital - Pune,Radiology,94,28,33,44,North
+H027,Aster CMI Hospital - Pune,General Medicine,98,71,73,40,West
+H027,Aster CMI Hospital - Pune,Dermatology,168,92,66,49,North
+H028,KIMS Hospitals - Ahmedabad,Cardiology,178,42,62,96,North
+H028,KIMS Hospitals - Ahmedabad,Neurology,90,63,13,46,East
+H028,KIMS Hospitals - Ahmedabad,Orthopedics,72,22,61,38,East
+H028,KIMS Hospitals - Ahmedabad,Emergency,174,22,45,37,East
+H028,KIMS Hospitals - Ahmedabad,Pediatrics,181,104,22,100,North
+H028,KIMS Hospitals - Ahmedabad,ICU,150,77,30,29,North
+H028,KIMS Hospitals - Ahmedabad,Oncology,119,51,58,83,East
+H028,KIMS Hospitals - Ahmedabad,Radiology,175,135,39,44,East
+H028,KIMS Hospitals - Ahmedabad,General Medicine,138,68,71,74,West
+H028,KIMS Hospitals - Ahmedabad,Dermatology,175,52,36,26,North
+H029,Medanta - Lucknow,Cardiology,164,73,70,21,South
+H029,Medanta - Lucknow,Neurology,169,135,73,57,West
+H029,Medanta - Lucknow,Orthopedics,108,49,74,104,East
+H029,Medanta - Lucknow,Emergency,44,36,76,41,East
+H029,Medanta - Lucknow,Pediatrics,155,27,46,54,East
+H029,Medanta - Lucknow,ICU,129,52,30,91,South
+H029,Medanta - Lucknow,Oncology,134,101,75,89,West
+H029,Medanta - Lucknow,Radiology,200,85,32,32,North
+H029,Medanta - Lucknow,General Medicine,188,88,39,89,North
+H029,Medanta - Lucknow,Dermatology,129,119,46,107,West
+H030,AIIMS Delhi - Vijayawada,Cardiology,191,186,43,115,South
+H030,AIIMS Delhi - Vijayawada,Neurology,41,23,76,117,West
+H030,AIIMS Delhi - Vijayawada,Orthopedics,52,21,69,67,South
+H030,AIIMS Delhi - Vijayawada,Emergency,186,78,80,66,West
+H030,AIIMS Delhi - Vijayawada,Pediatrics,155,128,11,23,East
+H030,AIIMS Delhi - Vijayawada,ICU,86,81,15,95,South
+H030,AIIMS Delhi - Vijayawada,Oncology,194,125,52,57,East
+H030,AIIMS Delhi - Vijayawada,Radiology,90,47,75,102,North
+H030,AIIMS Delhi - Vijayawada,General Medicine,133,47,62,49,East
+H030,AIIMS Delhi - Vijayawada,Dermatology,153,40,59,83,North
+H031,Care Hospitals - Delhi,Cardiology,105,76,80,27,East
+H031,Care Hospitals - Delhi,Neurology,119,52,54,120,South
+H031,Care Hospitals - Delhi,Orthopedics,189,63,57,85,South
+H031,Care Hospitals - Delhi,Emergency,107,94,23,56,North
+H031,Care Hospitals - Delhi,Pediatrics,182,134,43,61,South
+H031,Care Hospitals - Delhi,ICU,64,61,74,93,South
+H031,Care Hospitals - Delhi,Oncology,65,65,15,64,West
+H031,Care Hospitals - Delhi,Radiology,139,118,76,71,East
+H031,Care Hospitals - Delhi,General Medicine,137,28,80,55,North
+H031,Care Hospitals - Delhi,Dermatology,138,61,73,28,East
+H032,Rainbow Children's Hospital - Mumbai,Cardiology,66,62,73,90,West
+H032,Rainbow Children's Hospital - Mumbai,Neurology,119,118,25,23,East
+H032,Rainbow Children's Hospital - Mumbai,Orthopedics,142,72,34,36,West
+H032,Rainbow Children's Hospital - Mumbai,Emergency,85,55,64,47,North
+H032,Rainbow Children's Hospital - Mumbai,Pediatrics,86,63,73,89,West
+H032,Rainbow Children's Hospital - Mumbai,ICU,126,49,52,81,West
+H032,Rainbow Children's Hospital - Mumbai,Oncology,147,120,68,47,West
+H032,Rainbow Children's Hospital - Mumbai,Radiology,47,27,28,32,North
+H032,Rainbow Children's Hospital - Mumbai,General Medicine,82,37,51,91,West
+H032,Rainbow Children's Hospital - Mumbai,Dermatology,61,42,45,81,East
+H033,Artemis Hospital - Hyderabad,Cardiology,107,32,79,106,East
+H033,Artemis Hospital - Hyderabad,Neurology,56,46,75,46,South
+H033,Artemis Hospital - Hyderabad,Orthopedics,163,127,28,88,North
+H033,Artemis Hospital - Hyderabad,Emergency,170,56,38,82,North
+H033,Artemis Hospital - Hyderabad,Pediatrics,47,31,63,21,South
+H033,Artemis Hospital - Hyderabad,ICU,90,48,75,22,East
+H033,Artemis Hospital - Hyderabad,Oncology,154,82,29,82,South
+H033,Artemis Hospital - Hyderabad,Radiology,72,37,34,109,West
+H033,Artemis Hospital - Hyderabad,General Medicine,120,89,22,33,West
+H033,Artemis Hospital - Hyderabad,Dermatology,74,42,59,115,West
+H034,Kauvery Hospital - Chennai,Cardiology,56,52,57,29,North
+H034,Kauvery Hospital - Chennai,Neurology,108,105,66,76,West
+H034,Kauvery Hospital - Chennai,Orthopedics,70,44,35,34,East
+H034,Kauvery Hospital - Chennai,Emergency,197,70,77,26,West
+H034,Kauvery Hospital - Chennai,Pediatrics,76,61,69,85,West
+H034,Kauvery Hospital - Chennai,ICU,68,25,76,115,North
+H034,Kauvery Hospital - Chennai,Oncology,184,62,39,107,East
+H034,Kauvery Hospital - Chennai,Radiology,108,24,26,75,North
+H034,Kauvery Hospital - Chennai,General Medicine,171,77,52,104,West
+H034,Kauvery Hospital - Chennai,Dermatology,112,101,37,67,East
+H035,Sri Ramachandra Medical Centre - Bengaluru,Cardiology,55,52,50,119,East
+H035,Sri Ramachandra Medical Centre - Bengaluru,Neurology,80,74,10,58,East
+H035,Sri Ramachandra Medical Centre - Bengaluru,Orthopedics,200,84,32,84,West
+H035,Sri Ramachandra Medical Centre - Bengaluru,Emergency,139,138,69,105,East
+H035,Sri Ramachandra Medical Centre - Bengaluru,Pediatrics,150,135,50,49,West
+H035,Sri Ramachandra Medical Centre - Bengaluru,ICU,144,91,76,29,East
+H035,Sri Ramachandra Medical Centre - Bengaluru,Oncology,127,102,37,116,South
+H035,Sri Ramachandra Medical Centre - Bengaluru,Radiology,118,31,35,115,South
+H035,Sri Ramachandra Medical Centre - Bengaluru,General Medicine,165,72,34,42,West
+H035,Sri Ramachandra Medical Centre - Bengaluru,Dermatology,117,26,76,32,East
+H036,Christian Medical College Vellore - Kolkata,Cardiology,119,56,17,118,South
+H036,Christian Medical College Vellore - Kolkata,Neurology,46,36,47,37,West
+H036,Christian Medical College Vellore - Kolkata,Orthopedics,99,65,23,93,South
+H036,Christian Medical College Vellore - Kolkata,Emergency,63,40,70,105,West
+H036,Christian Medical College Vellore - Kolkata,Pediatrics,105,55,77,116,South
+H036,Christian Medical College Vellore - Kolkata,ICU,184,130,20,41,North
+H036,Christian Medical College Vellore - Kolkata,Oncology,120,38,75,77,North
+H036,Christian Medical College Vellore - Kolkata,Radiology,49,23,16,68,South
+H036,Christian Medical College Vellore - Kolkata,General Medicine,113,74,57,39,North
+H036,Christian Medical College Vellore - Kolkata,Dermatology,200,190,26,39,East
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Cardiology,143,39,42,57,South
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Neurology,158,126,29,98,South
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Orthopedics,49,33,63,64,East
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Emergency,133,73,63,120,West
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Pediatrics,53,32,66,26,West
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,ICU,52,24,16,92,East
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Oncology,133,81,55,49,South
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Radiology,127,119,67,91,East
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,General Medicine,92,78,21,33,West
+H037,Kokilaben Dhirubhai Ambani Hospital - Pune,Dermatology,58,55,54,109,West
+H038,Gleneagles Global Hospital - Ahmedabad,Cardiology,198,47,18,111,West
+H038,Gleneagles Global Hospital - Ahmedabad,Neurology,179,40,74,91,West
+H038,Gleneagles Global Hospital - Ahmedabad,Orthopedics,124,121,74,117,North
+H038,Gleneagles Global Hospital - Ahmedabad,Emergency,132,90,25,87,West
+H038,Gleneagles Global Hospital - Ahmedabad,Pediatrics,75,35,36,79,East
+H038,Gleneagles Global Hospital - Ahmedabad,ICU,54,52,69,28,East
+H038,Gleneagles Global Hospital - Ahmedabad,Oncology,162,40,54,71,South
+H038,Gleneagles Global Hospital - Ahmedabad,Radiology,67,20,16,22,East
+H038,Gleneagles Global Hospital - Ahmedabad,General Medicine,164,37,47,25,West
+H038,Gleneagles Global Hospital - Ahmedabad,Dermatology,124,75,76,63,North
+H039,HCG Cancer Centre - Lucknow,Cardiology,54,32,66,20,West
+H039,HCG Cancer Centre - Lucknow,Neurology,56,39,64,46,North
+H039,HCG Cancer Centre - Lucknow,Orthopedics,53,29,68,101,East
+H039,HCG Cancer Centre - Lucknow,Emergency,84,47,70,84,South
+H039,HCG Cancer Centre - Lucknow,Pediatrics,154,128,27,50,North
+H039,HCG Cancer Centre - Lucknow,ICU,110,80,10,31,South
+H039,HCG Cancer Centre - Lucknow,Oncology,140,107,12,115,East
+H039,HCG Cancer Centre - Lucknow,Radiology,144,135,30,99,South
+H039,HCG Cancer Centre - Lucknow,General Medicine,143,69,30,49,West
+H039,HCG Cancer Centre - Lucknow,Dermatology,74,23,22,49,East
+H040,JIPMER Hospital - Vijayawada,Cardiology,76,75,23,52,West
+H040,JIPMER Hospital - Vijayawada,Neurology,151,78,13,38,West
+H040,JIPMER Hospital - Vijayawada,Orthopedics,73,52,24,30,North
+H040,JIPMER Hospital - Vijayawada,Emergency,91,35,60,108,East
+H040,JIPMER Hospital - Vijayawada,Pediatrics,89,66,18,44,East
+H040,JIPMER Hospital - Vijayawada,ICU,169,67,64,51,West
+H040,JIPMER Hospital - Vijayawada,Oncology,112,77,77,86,South
+H040,JIPMER Hospital - Vijayawada,Radiology,116,62,25,97,West
+H040,JIPMER Hospital - Vijayawada,General Medicine,176,48,37,47,North
+H040,JIPMER Hospital - Vijayawada,Dermatology,165,58,35,117,South
+H041,Apollo Hospitals - Delhi,Cardiology,181,152,30,102,South
+H041,Apollo Hospitals - Delhi,Neurology,198,66,68,60,East
+H041,Apollo Hospitals - Delhi,Orthopedics,63,33,77,80,North
+H041,Apollo Hospitals - Delhi,Emergency,135,60,46,56,North
+H041,Apollo Hospitals - Delhi,Pediatrics,125,108,48,82,East
+H041,Apollo Hospitals - Delhi,ICU,130,44,33,57,North
+H041,Apollo Hospitals - Delhi,Oncology,91,73,15,81,North
+H041,Apollo Hospitals - Delhi,Radiology,80,66,48,94,North
+H041,Apollo Hospitals - Delhi,General Medicine,111,106,23,21,West
+H041,Apollo Hospitals - Delhi,Dermatology,65,50,80,78,West
+H042,Fortis Hospital - Mumbai,Cardiology,166,111,36,108,West
+H042,Fortis Hospital - Mumbai,Neurology,42,20,45,119,East
+H042,Fortis Hospital - Mumbai,Orthopedics,117,63,73,97,East
+H042,Fortis Hospital - Mumbai,Emergency,75,51,57,49,West
+H042,Fortis Hospital - Mumbai,Pediatrics,94,78,36,41,West
+H042,Fortis Hospital - Mumbai,ICU,187,108,35,77,South
+H042,Fortis Hospital - Mumbai,Oncology,105,59,45,92,West
+H042,Fortis Hospital - Mumbai,Radiology,70,30,30,68,East
+H042,Fortis Hospital - Mumbai,General Medicine,58,38,40,73,South
+H042,Fortis Hospital - Mumbai,Dermatology,51,23,22,119,South
+H043,Max Super Speciality Hospital - Hyderabad,Cardiology,128,111,75,67,South
+H043,Max Super Speciality Hospital - Hyderabad,Neurology,119,115,16,37,West
+H043,Max Super Speciality Hospital - Hyderabad,Orthopedics,44,36,55,50,West
+H043,Max Super Speciality Hospital - Hyderabad,Emergency,45,33,43,24,North
+H043,Max Super Speciality Hospital - Hyderabad,Pediatrics,92,83,44,90,West
+H043,Max Super Speciality Hospital - Hyderabad,ICU,167,162,26,74,South
+H043,Max Super Speciality Hospital - Hyderabad,Oncology,165,117,26,53,West
+H043,Max Super Speciality Hospital - Hyderabad,Radiology,57,20,52,112,South
+H043,Max Super Speciality Hospital - Hyderabad,General Medicine,68,54,12,57,East
+H043,Max Super Speciality Hospital - Hyderabad,Dermatology,164,92,13,61,North
+H044,Manipal Hospital - Chennai,Cardiology,123,120,23,62,East
+H044,Manipal Hospital - Chennai,Neurology,194,23,62,117,North
+H044,Manipal Hospital - Chennai,Orthopedics,102,62,63,101,South
+H044,Manipal Hospital - Chennai,Emergency,158,22,59,29,North
+H044,Manipal Hospital - Chennai,Pediatrics,132,25,17,118,North
+H044,Manipal Hospital - Chennai,ICU,164,46,56,51,West
+H044,Manipal Hospital - Chennai,Oncology,78,55,22,79,West
+H044,Manipal Hospital - Chennai,Radiology,107,20,77,59,West
+H044,Manipal Hospital - Chennai,General Medicine,187,133,56,104,South
+H044,Manipal Hospital - Chennai,Dermatology,59,27,56,114,East
+H045,Narayana Health - Bengaluru,Cardiology,122,115,18,73,East
+H045,Narayana Health - Bengaluru,Neurology,94,51,77,36,South
+H045,Narayana Health - Bengaluru,Orthopedics,138,128,69,20,North
+H045,Narayana Health - Bengaluru,Emergency,191,136,42,33,West
+H045,Narayana Health - Bengaluru,Pediatrics,181,55,80,107,West
+H045,Narayana Health - Bengaluru,ICU,130,82,22,95,West
+H045,Narayana Health - Bengaluru,Oncology,87,44,16,107,West
+H045,Narayana Health - Bengaluru,Radiology,127,108,54,80,West
+H045,Narayana Health - Bengaluru,General Medicine,64,44,50,90,East
+H045,Narayana Health - Bengaluru,Dermatology,65,32,10,24,South
+H046,Yashoda Hospitals - Kolkata,Cardiology,81,30,12,72,East
+H046,Yashoda Hospitals - Kolkata,Neurology,142,42,12,73,West
+H046,Yashoda Hospitals - Kolkata,Orthopedics,164,64,74,50,West
+H046,Yashoda Hospitals - Kolkata,Emergency,61,57,49,111,North
+H046,Yashoda Hospitals - Kolkata,Pediatrics,47,25,74,109,South
+H046,Yashoda Hospitals - Kolkata,ICU,192,123,35,112,North
+H046,Yashoda Hospitals - Kolkata,Oncology,85,75,49,116,South
+H046,Yashoda Hospitals - Kolkata,Radiology,183,33,39,29,East
+H046,Yashoda Hospitals - Kolkata,General Medicine,67,60,30,41,West
+H046,Yashoda Hospitals - Kolkata,Dermatology,120,102,77,30,West
+H047,Aster CMI Hospital - Pune,Cardiology,158,64,33,64,West
+H047,Aster CMI Hospital - Pune,Neurology,175,70,64,49,West
+H047,Aster CMI Hospital - Pune,Orthopedics,175,47,26,48,North
+H047,Aster CMI Hospital - Pune,Emergency,123,108,38,39,East
+H047,Aster CMI Hospital - Pune,Pediatrics,75,47,16,25,North
+H047,Aster CMI Hospital - Pune,ICU,62,54,23,43,South
+H047,Aster CMI Hospital - Pune,Oncology,44,35,37,87,North
+H047,Aster CMI Hospital - Pune,Radiology,59,29,31,31,South
+H047,Aster CMI Hospital - Pune,General Medicine,107,100,35,115,West
+H047,Aster CMI Hospital - Pune,Dermatology,129,36,22,27,North
+H048,KIMS Hospitals - Ahmedabad,Cardiology,48,34,44,62,South
+H048,KIMS Hospitals - Ahmedabad,Neurology,52,42,16,24,North
+H048,KIMS Hospitals - Ahmedabad,Orthopedics,57,49,24,61,North
+H048,KIMS Hospitals - Ahmedabad,Emergency,170,115,25,30,North
+H048,KIMS Hospitals - Ahmedabad,Pediatrics,122,22,48,33,South
+H048,KIMS Hospitals - Ahmedabad,ICU,81,66,53,27,North
+H048,KIMS Hospitals - Ahmedabad,Oncology,69,30,74,78,East
+H048,KIMS Hospitals - Ahmedabad,Radiology,55,53,33,70,West
+H048,KIMS Hospitals - Ahmedabad,General Medicine,50,26,17,95,West
+H048,KIMS Hospitals - Ahmedabad,Dermatology,103,91,11,76,North
+H049,Medanta - Lucknow,Cardiology,112,97,40,83,North
+H049,Medanta - Lucknow,Neurology,193,43,14,55,East
+H049,Medanta - Lucknow,Orthopedics,68,39,25,52,West
+H049,Medanta - Lucknow,Emergency,177,148,25,120,West
+H049,Medanta - Lucknow,Pediatrics,121,116,62,28,North
+H049,Medanta - Lucknow,ICU,184,109,39,57,South
+H049,Medanta - Lucknow,Oncology,126,96,18,40,West
+H049,Medanta - Lucknow,Radiology,125,49,63,115,South
+H049,Medanta - Lucknow,General Medicine,117,80,17,65,South
+H049,Medanta - Lucknow,Dermatology,98,44,49,80,East
+H050,AIIMS Delhi - Vijayawada,Cardiology,43,38,18,81,South
+H050,AIIMS Delhi - Vijayawada,Neurology,131,113,63,44,West
+H050,AIIMS Delhi - Vijayawada,Orthopedics,109,24,57,87,East
+H050,AIIMS Delhi - Vijayawada,Emergency,169,161,19,32,East
+H050,AIIMS Delhi - Vijayawada,Pediatrics,129,77,70,30,West
+H050,AIIMS Delhi - Vijayawada,ICU,45,34,67,66,West
+H050,AIIMS Delhi - Vijayawada,Oncology,149,130,26,79,North
+H050,AIIMS Delhi - Vijayawada,Radiology,54,44,23,24,East
+H050,AIIMS Delhi - Vijayawada,General Medicine,84,24,41,22,West
+H050,AIIMS Delhi - Vijayawada,Dermatology,92,64,39,91,West
+H051,Care Hospitals - Delhi,Cardiology,175,56,74,28,East
+H051,Care Hospitals - Delhi,Neurology,199,139,78,22,North
+H051,Care Hospitals - Delhi,Orthopedics,159,118,24,74,North
+H051,Care Hospitals - Delhi,Emergency,55,53,50,51,East
+H051,Care Hospitals - Delhi,Pediatrics,159,103,50,27,West
+H051,Care Hospitals - Delhi,ICU,116,87,22,53,East
+H051,Care Hospitals - Delhi,Oncology,118,50,43,55,West
+H051,Care Hospitals - Delhi,Radiology,194,63,61,71,South
+H051,Care Hospitals - Delhi,General Medicine,146,118,37,96,East
+H051,Care Hospitals - Delhi,Dermatology,64,57,76,33,South
+H052,Rainbow Children's Hospital - Mumbai,Cardiology,176,79,34,55,East
+H052,Rainbow Children's Hospital - Mumbai,Neurology,60,40,53,43,South
+H052,Rainbow Children's Hospital - Mumbai,Orthopedics,158,138,70,106,West
+H052,Rainbow Children's Hospital - Mumbai,Emergency,62,32,57,88,West
+H052,Rainbow Children's Hospital - Mumbai,Pediatrics,70,45,12,27,North
+H052,Rainbow Children's Hospital - Mumbai,ICU,92,33,24,51,West
+H052,Rainbow Children's Hospital - Mumbai,Oncology,168,133,18,89,West
+H052,Rainbow Children's Hospital - Mumbai,Radiology,195,138,77,102,South
+H052,Rainbow Children's Hospital - Mumbai,General Medicine,186,81,17,93,North
+H052,Rainbow Children's Hospital - Mumbai,Dermatology,155,140,28,60,East
+H053,Artemis Hospital - Hyderabad,Cardiology,52,23,10,73,South
+H053,Artemis Hospital - Hyderabad,Neurology,124,23,44,72,West
+H053,Artemis Hospital - Hyderabad,Orthopedics,141,20,52,20,West
+H053,Artemis Hospital - Hyderabad,Emergency,172,165,13,43,East
+H053,Artemis Hospital - Hyderabad,Pediatrics,134,113,30,84,West
+H053,Artemis Hospital - Hyderabad,ICU,90,78,43,23,West
+H053,Artemis Hospital - Hyderabad,Oncology,42,28,24,94,North
+H053,Artemis Hospital - Hyderabad,Radiology,84,54,25,72,North
+H053,Artemis Hospital - Hyderabad,General Medicine,166,134,27,44,West
+H053,Artemis Hospital - Hyderabad,Dermatology,185,182,66,117,South
+H054,Kauvery Hospital - Chennai,Cardiology,48,38,11,62,South
+H054,Kauvery Hospital - Chennai,Neurology,89,27,24,106,South
+H054,Kauvery Hospital - Chennai,Orthopedics,124,35,77,74,East
+H054,Kauvery Hospital - Chennai,Emergency,154,25,43,87,East
+H054,Kauvery Hospital - Chennai,Pediatrics,121,25,31,46,North
+H054,Kauvery Hospital - Chennai,ICU,103,77,47,110,East
+H054,Kauvery Hospital - Chennai,Oncology,165,50,54,68,East
+H054,Kauvery Hospital - Chennai,Radiology,53,33,70,32,East
+H054,Kauvery Hospital - Chennai,General Medicine,47,20,71,52,South
+H054,Kauvery Hospital - Chennai,Dermatology,170,58,65,88,South
+H055,Sri Ramachandra Medical Centre - Bengaluru,Cardiology,54,25,28,24,South
+H055,Sri Ramachandra Medical Centre - Bengaluru,Neurology,67,40,28,71,South
+H055,Sri Ramachandra Medical Centre - Bengaluru,Orthopedics,52,50,64,107,West
+H055,Sri Ramachandra Medical Centre - Bengaluru,Emergency,186,113,73,60,West
+H055,Sri Ramachandra Medical Centre - Bengaluru,Pediatrics,66,66,74,75,West
+H055,Sri Ramachandra Medical Centre - Bengaluru,ICU,76,43,12,23,West
+H055,Sri Ramachandra Medical Centre - Bengaluru,Oncology,192,139,41,74,East
+H055,Sri Ramachandra Medical Centre - Bengaluru,Radiology,171,134,43,95,South
+H055,Sri Ramachandra Medical Centre - Bengaluru,General Medicine,93,35,54,33,North
+H055,Sri Ramachandra Medical Centre - Bengaluru,Dermatology,42,40,20,83,South
+H056,Christian Medical College Vellore - Kolkata,Cardiology,60,34,52,78,North
+H056,Christian Medical College Vellore - Kolkata,Neurology,198,35,35,108,West
+H056,Christian Medical College Vellore - Kolkata,Orthopedics,148,48,71,72,East
+H056,Christian Medical College Vellore - Kolkata,Emergency,169,149,20,87,South
+H056,Christian Medical College Vellore - Kolkata,Pediatrics,159,116,12,73,North
+H056,Christian Medical College Vellore - Kolkata,ICU,155,39,26,65,East
+H056,Christian Medical College Vellore - Kolkata,Oncology,54,48,54,89,East
+H056,Christian Medical College Vellore - Kolkata,Radiology,186,70,24,105,West
+H056,Christian Medical College Vellore - Kolkata,General Medicine,177,60,63,54,North
+H056,Christian Medical College Vellore - Kolkata,Dermatology,180,70,44,104,East
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Cardiology,118,46,45,27,South
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Neurology,172,153,52,108,East
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Orthopedics,191,172,20,27,West
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Emergency,155,47,72,60,West
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Pediatrics,136,113,41,60,West
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,ICU,188,20,34,114,North
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Oncology,177,128,76,45,South
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Radiology,55,20,69,113,South
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,General Medicine,181,120,52,57,South
+H057,Kokilaben Dhirubhai Ambani Hospital - Pune,Dermatology,153,20,23,35,South
+H058,Gleneagles Global Hospital - Ahmedabad,Cardiology,140,123,32,87,West
+H058,Gleneagles Global Hospital - Ahmedabad,Neurology,74,28,43,93,West
+H058,Gleneagles Global Hospital - Ahmedabad,Orthopedics,144,31,38,59,West
+H058,Gleneagles Global Hospital - Ahmedabad,Emergency,161,117,15,32,South
+H058,Gleneagles Global Hospital - Ahmedabad,Pediatrics,66,21,78,74,South
+H058,Gleneagles Global Hospital - Ahmedabad,ICU,106,66,35,30,North
+H058,Gleneagles Global Hospital - Ahmedabad,Oncology,120,116,73,33,South
+H058,Gleneagles Global Hospital - Ahmedabad,Radiology,139,62,27,43,West
+H058,Gleneagles Global Hospital - Ahmedabad,General Medicine,69,64,11,71,East
+H058,Gleneagles Global Hospital - Ahmedabad,Dermatology,144,74,65,65,West
+H059,HCG Cancer Centre - Lucknow,Cardiology,133,89,42,24,East
+H059,HCG Cancer Centre - Lucknow,Neurology,87,30,17,47,West
+H059,HCG Cancer Centre - Lucknow,Orthopedics,108,94,67,44,West
+H059,HCG Cancer Centre - Lucknow,Emergency,116,66,63,83,North
+H059,HCG Cancer Centre - Lucknow,Pediatrics,80,72,20,109,South
+H059,HCG Cancer Centre - Lucknow,ICU,116,97,80,113,West
+H059,HCG Cancer Centre - Lucknow,Oncology,150,97,19,61,East
+H059,HCG Cancer Centre - Lucknow,Radiology,161,54,25,106,South
+H059,HCG Cancer Centre - Lucknow,General Medicine,56,25,41,94,West
+H059,HCG Cancer Centre - Lucknow,Dermatology,174,81,16,41,South
+H060,JIPMER Hospital - Vijayawada,Cardiology,187,135,65,82,South
+H060,JIPMER Hospital - Vijayawada,Neurology,85,22,73,30,North
+H060,JIPMER Hospital - Vijayawada,Orthopedics,95,66,13,102,South
+H060,JIPMER Hospital - Vijayawada,Emergency,88,72,62,86,East
+H060,JIPMER Hospital - Vijayawada,Pediatrics,195,93,28,83,South
+H060,JIPMER Hospital - Vijayawada,ICU,149,141,71,55,East
+H060,JIPMER Hospital - Vijayawada,Oncology,165,68,31,57,East
+H060,JIPMER Hospital - Vijayawada,Radiology,155,49,52,66,East
+H060,JIPMER Hospital - Vijayawada,General Medicine,184,131,79,52,West
+H060,JIPMER Hospital - Vijayawada,Dermatology,80,49,61,25,East
+H061,Apollo Hospitals - Delhi,Cardiology,57,31,79,31,West
+H061,Apollo Hospitals - Delhi,Neurology,167,48,72,31,West
+H061,Apollo Hospitals - Delhi,Orthopedics,189,171,46,54,East
+H061,Apollo Hospitals - Delhi,Emergency,87,44,58,47,South
+H061,Apollo Hospitals - Delhi,Pediatrics,109,83,15,21,East
+H061,Apollo Hospitals - Delhi,ICU,82,57,57,61,East
+H061,Apollo Hospitals - Delhi,Oncology,160,49,31,26,North
+H061,Apollo Hospitals - Delhi,Radiology,152,79,21,69,North
+H061,Apollo Hospitals - Delhi,General Medicine,177,31,58,91,South
+H061,Apollo Hospitals - Delhi,Dermatology,109,38,41,99,West
+H062,Fortis Hospital - Mumbai,Cardiology,152,120,71,60,South
+H062,Fortis Hospital - Mumbai,Neurology,72,59,78,48,North
+H062,Fortis Hospital - Mumbai,Orthopedics,181,142,53,97,North
+H062,Fortis Hospital - Mumbai,Emergency,132,84,77,58,North
+H062,Fortis Hospital - Mumbai,Pediatrics,189,185,49,85,South
+H062,Fortis Hospital - Mumbai,ICU,110,73,47,107,North
+H062,Fortis Hospital - Mumbai,Oncology,57,53,76,20,South
+H062,Fortis Hospital - Mumbai,Radiology,109,71,67,25,North
+H062,Fortis Hospital - Mumbai,General Medicine,148,47,64,97,South
+H062,Fortis Hospital - Mumbai,Dermatology,178,87,72,50,North
+H063,Max Super Speciality Hospital - Hyderabad,Cardiology,47,44,60,51,West
+H063,Max Super Speciality Hospital - Hyderabad,Neurology,41,41,66,41,North
+H063,Max Super Speciality Hospital - Hyderabad,Orthopedics,183,115,14,91,South
+H063,Max Super Speciality Hospital - Hyderabad,Emergency,75,45,18,71,South
+H063,Max Super Speciality Hospital - Hyderabad,Pediatrics,118,25,53,56,West
+H063,Max Super Speciality Hospital - Hyderabad,ICU,113,98,74,61,North
+H063,Max Super Speciality Hospital - Hyderabad,Oncology,68,50,54,41,East
+H063,Max Super Speciality Hospital - Hyderabad,Radiology,55,20,19,78,East
+H063,Max Super Speciality Hospital - Hyderabad,General Medicine,132,23,47,95,South
+H063,Max Super Speciality Hospital - Hyderabad,Dermatology,123,77,80,34,East
+H064,Manipal Hospital - Chennai,Cardiology,63,29,70,82,North
+H064,Manipal Hospital - Chennai,Neurology,59,43,40,44,West
+H064,Manipal Hospital - Chennai,Orthopedics,192,54,78,50,South
+H064,Manipal Hospital - Chennai,Emergency,192,51,29,50,North
+H064,Manipal Hospital - Chennai,Pediatrics,60,55,72,55,North
+H064,Manipal Hospital - Chennai,ICU,54,51,42,48,South
+H064,Manipal Hospital - Chennai,Oncology,138,41,78,113,East
+H064,Manipal Hospital - Chennai,Radiology,94,41,38,104,West
+H064,Manipal Hospital - Chennai,General Medicine,138,25,37,60,West
+H064,Manipal Hospital - Chennai,Dermatology,161,55,45,55,South
+H065,Narayana Health - Bengaluru,Cardiology,113,81,32,37,South
+H065,Narayana Health - Bengaluru,Neurology,148,93,71,39,South
+H065,Narayana Health - Bengaluru,Orthopedics,102,48,49,115,South
+H065,Narayana Health - Bengaluru,Emergency,80,60,58,25,South
+H065,Narayana Health - Bengaluru,Pediatrics,86,37,29,104,West
+H065,Narayana Health - Bengaluru,ICU,124,68,22,83,East
+H065,Narayana Health - Bengaluru,Oncology,175,74,49,107,East
+H065,Narayana Health - Bengaluru,Radiology,58,49,38,23,North
+H065,Narayana Health - Bengaluru,General Medicine,171,41,28,56,South
+H065,Narayana Health - Bengaluru,Dermatology,111,34,31,96,West
+H066,Yashoda Hospitals - Kolkata,Cardiology,97,65,73,67,South
+H066,Yashoda Hospitals - Kolkata,Neurology,75,52,75,49,South
+H066,Yashoda Hospitals - Kolkata,Orthopedics,47,44,38,95,West
+H066,Yashoda Hospitals - Kolkata,Emergency,107,99,80,24,North
+H066,Yashoda Hospitals - Kolkata,Pediatrics,195,65,39,72,West
+H066,Yashoda Hospitals - Kolkata,ICU,152,114,20,55,East
+H066,Yashoda Hospitals - Kolkata,Oncology,127,54,49,56,East
+H066,Yashoda Hospitals - Kolkata,Radiology,118,38,69,48,West
+H066,Yashoda Hospitals - Kolkata,General Medicine,77,47,34,40,South
+H066,Yashoda Hospitals - Kolkata,Dermatology,92,52,78,47,South
+H067,Aster CMI Hospital - Pune,Cardiology,164,110,57,108,West
+H067,Aster CMI Hospital - Pune,Neurology,96,83,79,63,North
+H067,Aster CMI Hospital - Pune,Orthopedics,99,96,35,29,North
+H067,Aster CMI Hospital - Pune,Emergency,139,62,37,34,South
+H067,Aster CMI Hospital - Pune,Pediatrics,147,84,54,68,West
+H067,Aster CMI Hospital - Pune,ICU,153,110,66,24,East
+H067,Aster CMI Hospital - Pune,Oncology,162,47,71,31,East
+H067,Aster CMI Hospital - Pune,Radiology,199,185,21,103,South
+H067,Aster CMI Hospital - Pune,General Medicine,98,48,39,66,West
+H067,Aster CMI Hospital - Pune,Dermatology,82,69,57,63,North
+H068,KIMS Hospitals - Ahmedabad,Cardiology,71,33,52,117,East
+H068,KIMS Hospitals - Ahmedabad,Neurology,68,68,17,110,South
+H068,KIMS Hospitals - Ahmedabad,Orthopedics,106,30,19,49,West
+H068,KIMS Hospitals - Ahmedabad,Emergency,89,37,13,104,South
+H068,KIMS Hospitals - Ahmedabad,Pediatrics,73,22,20,78,South
+H068,KIMS Hospitals - Ahmedabad,ICU,178,64,26,100,West
+H068,KIMS Hospitals - Ahmedabad,Oncology,50,50,60,88,West
+H068,KIMS Hospitals - Ahmedabad,Radiology,182,125,63,49,North
+H068,KIMS Hospitals - Ahmedabad,General Medicine,163,24,62,56,West
+H068,KIMS Hospitals - Ahmedabad,Dermatology,98,96,75,77,East
+H069,Medanta - Lucknow,Cardiology,149,45,31,99,East
+H069,Medanta - Lucknow,Neurology,186,40,21,22,South
+H069,Medanta - Lucknow,Orthopedics,198,154,49,94,South
+H069,Medanta - Lucknow,Emergency,174,68,50,21,South
+H069,Medanta - Lucknow,Pediatrics,77,48,57,44,South
+H069,Medanta - Lucknow,ICU,198,119,47,84,West
+H069,Medanta - Lucknow,Oncology,88,36,17,109,North
+H069,Medanta - Lucknow,Radiology,102,21,60,61,South
+H069,Medanta - Lucknow,General Medicine,91,41,40,96,West
+H069,Medanta - Lucknow,Dermatology,195,38,22,104,West
+H070,AIIMS Delhi - Vijayawada,Cardiology,137,59,24,29,East
+H070,AIIMS Delhi - Vijayawada,Neurology,63,44,47,109,East
+H070,AIIMS Delhi - Vijayawada,Orthopedics,145,122,52,97,South
+H070,AIIMS Delhi - Vijayawada,Emergency,89,73,57,96,West
+H070,AIIMS Delhi - Vijayawada,Pediatrics,183,58,65,94,North
+H070,AIIMS Delhi - Vijayawada,ICU,53,53,11,20,East
+H070,AIIMS Delhi - Vijayawada,Oncology,156,20,35,43,South
+H070,AIIMS Delhi - Vijayawada,Radiology,146,25,11,87,East
+H070,AIIMS Delhi - Vijayawada,General Medicine,88,30,35,108,East
+H070,AIIMS Delhi - Vijayawada,Dermatology,198,137,41,35,North
+H071,Care Hospitals - Delhi,Cardiology,133,47,76,87,South
+H071,Care Hospitals - Delhi,Neurology,65,30,11,59,East
+H071,Care Hospitals - Delhi,Orthopedics,81,52,28,50,West
+H071,Care Hospitals - Delhi,Emergency,71,47,14,117,North
+H071,Care Hospitals - Delhi,Pediatrics,45,41,72,38,South
+H071,Care Hospitals - Delhi,ICU,176,63,18,36,North
+H071,Care Hospitals - Delhi,Oncology,50,23,56,116,North
+H071,Care Hospitals - Delhi,Radiology,41,33,16,115,West
+H071,Care Hospitals - Delhi,General Medicine,171,97,71,106,North
+H071,Care Hospitals - Delhi,Dermatology,112,106,29,109,North
+H072,Rainbow Children's Hospital - Mumbai,Cardiology,188,132,68,106,West
+H072,Rainbow Children's Hospital - Mumbai,Neurology,149,81,23,24,North
+H072,Rainbow Children's Hospital - Mumbai,Orthopedics,194,99,52,45,North
+H072,Rainbow Children's Hospital - Mumbai,Emergency,192,181,45,37,South
+H072,Rainbow Children's Hospital - Mumbai,Pediatrics,94,69,51,115,South
+H072,Rainbow Children's Hospital - Mumbai,ICU,82,50,20,53,West
+H072,Rainbow Children's Hospital - Mumbai,Oncology,85,64,11,81,West
+H072,Rainbow Children's Hospital - Mumbai,Radiology,79,32,39,36,West
+H072,Rainbow Children's Hospital - Mumbai,General Medicine,135,25,44,59,East
+H072,Rainbow Children's Hospital - Mumbai,Dermatology,171,76,20,83,East
+H073,Artemis Hospital - Hyderabad,Cardiology,188,74,63,21,North
+H073,Artemis Hospital - Hyderabad,Neurology,141,30,65,111,West
+H073,Artemis Hospital - Hyderabad,Orthopedics,138,48,13,82,South
+H073,Artemis Hospital - Hyderabad,Emergency,159,61,29,104,East
+H073,Artemis Hospital - Hyderabad,Pediatrics,163,115,79,53,South
+H073,Artemis Hospital - Hyderabad,ICU,143,46,25,76,North
+H073,Artemis Hospital - Hyderabad,Oncology,66,33,75,98,North
+H073,Artemis Hospital - Hyderabad,Radiology,41,24,51,76,South
+H073,Artemis Hospital - Hyderabad,General Medicine,84,46,39,106,East
+H073,Artemis Hospital - Hyderabad,Dermatology,175,129,27,47,East
+H074,Kauvery Hospital - Chennai,Cardiology,76,62,26,49,East
+H074,Kauvery Hospital - Chennai,Neurology,73,29,63,58,North
+H074,Kauvery Hospital - Chennai,Orthopedics,44,23,43,101,East
+H074,Kauvery Hospital - Chennai,Emergency,76,32,10,66,West
+H074,Kauvery Hospital - Chennai,Pediatrics,139,120,53,116,West
+H074,Kauvery Hospital - Chennai,ICU,155,127,11,113,West
+H074,Kauvery Hospital - Chennai,Oncology,67,60,29,65,North
+H074,Kauvery Hospital - Chennai,Radiology,164,86,40,58,South
+H074,Kauvery Hospital - Chennai,General Medicine,71,21,79,59,South
+H074,Kauvery Hospital - Chennai,Dermatology,197,157,75,92,South
+H075,Sri Ramachandra Medical Centre - Bengaluru,Cardiology,185,26,41,110,North
+H075,Sri Ramachandra Medical Centre - Bengaluru,Neurology,151,125,43,69,West
+H075,Sri Ramachandra Medical Centre - Bengaluru,Orthopedics,172,22,29,70,West
+H075,Sri Ramachandra Medical Centre - Bengaluru,Emergency,114,91,54,34,North
+H075,Sri Ramachandra Medical Centre - Bengaluru,Pediatrics,154,128,64,34,South
+H075,Sri Ramachandra Medical Centre - Bengaluru,ICU,111,82,58,102,East
+H075,Sri Ramachandra Medical Centre - Bengaluru,Oncology,189,136,58,74,East
+H075,Sri Ramachandra Medical Centre - Bengaluru,Radiology,149,60,65,67,North
+H075,Sri Ramachandra Medical Centre - Bengaluru,General Medicine,86,40,70,78,East
+H075,Sri Ramachandra Medical Centre - Bengaluru,Dermatology,145,98,45,111,South
+H076,Christian Medical College Vellore - Kolkata,Cardiology,125,111,47,60,West
+H076,Christian Medical College Vellore - Kolkata,Neurology,137,51,47,57,West
+H076,Christian Medical College Vellore - Kolkata,Orthopedics,182,63,15,26,North
+H076,Christian Medical College Vellore - Kolkata,Emergency,89,82,59,85,South
+H076,Christian Medical College Vellore - Kolkata,Pediatrics,132,130,30,113,North
+H076,Christian Medical College Vellore - Kolkata,ICU,100,82,26,106,East
+H076,Christian Medical College Vellore - Kolkata,Oncology,84,25,46,73,East
+H076,Christian Medical College Vellore - Kolkata,Radiology,98,60,30,28,West
+H076,Christian Medical College Vellore - Kolkata,General Medicine,55,41,70,37,West
+H076,Christian Medical College Vellore - Kolkata,Dermatology,166,136,80,44,North
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Cardiology,52,29,16,44,North
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Neurology,108,44,35,26,West
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Orthopedics,158,24,13,101,North
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Emergency,73,25,56,44,South
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Pediatrics,103,84,79,59,North
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,ICU,185,176,53,67,East
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Oncology,42,33,30,82,North
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Radiology,182,51,16,69,South
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,General Medicine,58,58,78,66,East
+H077,Kokilaben Dhirubhai Ambani Hospital - Pune,Dermatology,110,89,16,75,West
+H078,Gleneagles Global Hospital - Ahmedabad,Cardiology,155,117,44,110,West
+H078,Gleneagles Global Hospital - Ahmedabad,Neurology,75,60,14,105,West
+H078,Gleneagles Global Hospital - Ahmedabad,Orthopedics,122,28,61,64,North
+H078,Gleneagles Global Hospital - Ahmedabad,Emergency,73,45,50,52,West
+H078,Gleneagles Global Hospital - Ahmedabad,Pediatrics,90,81,14,54,South
+H078,Gleneagles Global Hospital - Ahmedabad,ICU,56,39,25,66,South
+H078,Gleneagles Global Hospital - Ahmedabad,Oncology,100,91,67,76,West
+H078,Gleneagles Global Hospital - Ahmedabad,Radiology,55,21,10,92,East
+H078,Gleneagles Global Hospital - Ahmedabad,General Medicine,109,64,17,72,South
+H078,Gleneagles Global Hospital - Ahmedabad,Dermatology,127,100,70,71,South
+H079,HCG Cancer Centre - Lucknow,Cardiology,92,85,24,43,South
+H079,HCG Cancer Centre - Lucknow,Neurology,122,58,34,103,South
+H079,HCG Cancer Centre - Lucknow,Orthopedics,150,31,60,39,North
+H079,HCG Cancer Centre - Lucknow,Emergency,92,83,62,27,South
+H079,HCG Cancer Centre - Lucknow,Pediatrics,49,40,73,24,West
+H079,HCG Cancer Centre - Lucknow,ICU,103,80,40,70,West
+H079,HCG Cancer Centre - Lucknow,Oncology,177,31,40,31,West
+H079,HCG Cancer Centre - Lucknow,Radiology,195,184,66,75,North
+H079,HCG Cancer Centre - Lucknow,General Medicine,154,23,44,69,West
+H079,HCG Cancer Centre - Lucknow,Dermatology,45,21,53,62,South
+H080,JIPMER Hospital - Vijayawada,Cardiology,56,37,34,55,East
+H080,JIPMER Hospital - Vijayawada,Neurology,196,175,18,103,West
+H080,JIPMER Hospital - Vijayawada,Orthopedics,61,43,15,43,West
+H080,JIPMER Hospital - Vijayawada,Emergency,196,163,29,73,South
+H080,JIPMER Hospital - Vijayawada,Pediatrics,75,40,53,62,West
+H080,JIPMER Hospital - Vijayawada,ICU,117,33,43,112,East
+H080,JIPMER Hospital - Vijayawada,Oncology,51,22,65,69,North
+H080,JIPMER Hospital - Vijayawada,Radiology,99,73,39,54,North
+H080,JIPMER Hospital - Vijayawada,General Medicine,189,185,21,110,West
+H080,JIPMER Hospital - Vijayawada,Dermatology,60,46,37,35,South
+H081,Apollo Hospitals - Delhi,Cardiology,90,51,58,45,East
+H081,Apollo Hospitals - Delhi,Neurology,122,121,32,88,North
+H081,Apollo Hospitals - Delhi,Orthopedics,108,105,38,44,South
+H081,Apollo Hospitals - Delhi,Emergency,138,52,45,54,East
+H081,Apollo Hospitals - Delhi,Pediatrics,170,44,61,58,East
+H081,Apollo Hospitals - Delhi,ICU,146,136,22,62,South
+H081,Apollo Hospitals - Delhi,Oncology,169,124,80,34,East
+H081,Apollo Hospitals - Delhi,Radiology,196,47,56,72,West
+H081,Apollo Hospitals - Delhi,General Medicine,117,103,12,100,West
+H081,Apollo Hospitals - Delhi,Dermatology,190,84,22,76,North
+H082,Fortis Hospital - Mumbai,Cardiology,148,24,79,32,South
+H082,Fortis Hospital - Mumbai,Neurology,128,76,17,70,North
+H082,Fortis Hospital - Mumbai,Orthopedics,79,64,77,112,South
+H082,Fortis Hospital - Mumbai,Emergency,77,36,80,94,West
+H082,Fortis Hospital - Mumbai,Pediatrics,57,39,70,26,West
+H082,Fortis Hospital - Mumbai,ICU,164,109,60,62,North
+H082,Fortis Hospital - Mumbai,Oncology,44,44,12,43,North
+H082,Fortis Hospital - Mumbai,Radiology,185,135,67,118,West
+H082,Fortis Hospital - Mumbai,General Medicine,117,102,66,20,East
+H082,Fortis Hospital - Mumbai,Dermatology,182,124,13,30,West
+H083,Max Super Speciality Hospital - Hyderabad,Cardiology,127,70,18,38,East
+H083,Max Super Speciality Hospital - Hyderabad,Neurology,151,125,27,62,West
+H083,Max Super Speciality Hospital - Hyderabad,Orthopedics,188,108,18,38,East
+H083,Max Super Speciality Hospital - Hyderabad,Emergency,57,47,27,84,North
+H083,Max Super Speciality Hospital - Hyderabad,Pediatrics,84,68,23,120,East
+H083,Max Super Speciality Hospital - Hyderabad,ICU,85,39,77,104,East
+H083,Max Super Speciality Hospital - Hyderabad,Oncology,167,93,59,95,West
+H083,Max Super Speciality Hospital - Hyderabad,Radiology,173,108,25,46,West
+H083,Max Super Speciality Hospital - Hyderabad,General Medicine,175,38,45,119,North
+H083,Max Super Speciality Hospital - Hyderabad,Dermatology,110,54,58,49,East
+H084,Manipal Hospital - Chennai,Cardiology,180,29,15,115,South
+H084,Manipal Hospital - Chennai,Neurology,155,55,21,77,North
+H084,Manipal Hospital - Chennai,Orthopedics,108,35,23,37,North
+H084,Manipal Hospital - Chennai,Emergency,86,25,54,86,East
+H084,Manipal Hospital - Chennai,Pediatrics,57,57,35,70,South
+H084,Manipal Hospital - Chennai,ICU,136,100,36,31,South
+H084,Manipal Hospital - Chennai,Oncology,117,94,42,74,North
+H084,Manipal Hospital - Chennai,Radiology,159,151,18,112,South
+H084,Manipal Hospital - Chennai,General Medicine,199,106,26,33,South
+H084,Manipal Hospital - Chennai,Dermatology,179,107,30,37,South
+H085,Narayana Health - Bengaluru,Cardiology,197,75,25,28,East
+H085,Narayana Health - Bengaluru,Neurology,87,48,20,30,East
+H085,Narayana Health - Bengaluru,Orthopedics,119,81,67,100,North
+H085,Narayana Health - Bengaluru,Emergency,105,99,78,104,South
+H085,Narayana Health - Bengaluru,Pediatrics,60,31,12,68,North
+H085,Narayana Health - Bengaluru,ICU,120,49,53,59,South
+H085,Narayana Health - Bengaluru,Oncology,82,77,75,55,East
+H085,Narayana Health - Bengaluru,Radiology,59,28,36,88,West
+H085,Narayana Health - Bengaluru,General Medicine,173,150,44,45,North
+H085,Narayana Health - Bengaluru,Dermatology,40,34,47,93,North
+H086,Yashoda Hospitals - Kolkata,Cardiology,107,87,67,73,East
+H086,Yashoda Hospitals - Kolkata,Neurology,85,76,37,20,North
+H086,Yashoda Hospitals - Kolkata,Orthopedics,189,62,16,116,North
+H086,Yashoda Hospitals - Kolkata,Emergency,176,163,72,27,West
+H086,Yashoda Hospitals - Kolkata,Pediatrics,193,180,79,45,South
+H086,Yashoda Hospitals - Kolkata,ICU,186,57,44,27,North
+H086,Yashoda Hospitals - Kolkata,Oncology,69,44,32,85,North
+H086,Yashoda Hospitals - Kolkata,Radiology,62,46,79,24,West
+H086,Yashoda Hospitals - Kolkata,General Medicine,101,41,76,33,West
+H086,Yashoda Hospitals - Kolkata,Dermatology,133,100,14,78,West
+H087,Aster CMI Hospital - Pune,Cardiology,78,24,74,91,North
+H087,Aster CMI Hospital - Pune,Neurology,150,127,54,102,North
+H087,Aster CMI Hospital - Pune,Orthopedics,125,74,56,67,South
+H087,Aster CMI Hospital - Pune,Emergency,111,22,16,39,West
+H087,Aster CMI Hospital - Pune,Pediatrics,166,41,62,28,West
+H087,Aster CMI Hospital - Pune,ICU,74,71,68,76,East
+H087,Aster CMI Hospital - Pune,Oncology,99,98,52,53,South
+H087,Aster CMI Hospital - Pune,Radiology,63,60,64,32,North
+H087,Aster CMI Hospital - Pune,General Medicine,178,124,76,34,East
+H087,Aster CMI Hospital - Pune,Dermatology,84,34,74,67,South
+H088,KIMS Hospitals - Ahmedabad,Cardiology,185,81,16,23,East
+H088,KIMS Hospitals - Ahmedabad,Neurology,110,97,28,40,East
+H088,KIMS Hospitals - Ahmedabad,Orthopedics,145,122,80,99,West
+H088,KIMS Hospitals - Ahmedabad,Emergency,142,100,23,72,West
+H088,KIMS Hospitals - Ahmedabad,Pediatrics,71,27,78,67,West
+H088,KIMS Hospitals - Ahmedabad,ICU,49,43,16,31,North
+H088,KIMS Hospitals - Ahmedabad,Oncology,186,60,17,80,South
+H088,KIMS Hospitals - Ahmedabad,Radiology,153,131,61,61,East
+H088,KIMS Hospitals - Ahmedabad,General Medicine,161,49,53,62,West
+H088,KIMS Hospitals - Ahmedabad,Dermatology,82,56,15,44,East
+H089,Medanta - Lucknow,Cardiology,57,34,79,73,East
+H089,Medanta - Lucknow,Neurology,58,49,59,83,South
+H089,Medanta - Lucknow,Orthopedics,162,58,72,41,East
+H089,Medanta - Lucknow,Emergency,190,27,60,44,East
+H089,Medanta - Lucknow,Pediatrics,196,76,25,40,North
+H089,Medanta - Lucknow,ICU,132,29,15,23,North
+H089,Medanta - Lucknow,Oncology,84,43,44,86,West
+H089,Medanta - Lucknow,Radiology,64,33,20,32,North
+H089,Medanta - Lucknow,General Medicine,88,61,76,23,West
+H089,Medanta - Lucknow,Dermatology,159,41,17,95,North
+H090,AIIMS Delhi - Vijayawada,Cardiology,82,23,42,111,East
+H090,AIIMS Delhi - Vijayawada,Neurology,188,78,75,80,East
+H090,AIIMS Delhi - Vijayawada,Orthopedics,195,116,38,86,East
+H090,AIIMS Delhi - Vijayawada,Emergency,122,51,51,112,East
+H090,AIIMS Delhi - Vijayawada,Pediatrics,140,89,24,99,West
+H090,AIIMS Delhi - Vijayawada,ICU,138,42,34,112,North
+H090,AIIMS Delhi - Vijayawada,Oncology,42,26,66,49,West
+H090,AIIMS Delhi - Vijayawada,Radiology,90,79,54,81,North
+H090,AIIMS Delhi - Vijayawada,General Medicine,172,37,52,28,North
+H090,AIIMS Delhi - Vijayawada,Dermatology,156,146,79,48,South
+H091,Care Hospitals - Delhi,Cardiology,149,67,62,28,East
+H091,Care Hospitals - Delhi,Neurology,117,70,43,119,East
+H091,Care Hospitals - Delhi,Orthopedics,133,77,54,48,North
+H091,Care Hospitals - Delhi,Emergency,55,22,27,72,West
+H091,Care Hospitals - Delhi,Pediatrics,183,175,66,59,South
+H091,Care Hospitals - Delhi,ICU,161,101,66,29,East
+H091,Care Hospitals - Delhi,Oncology,173,172,18,42,East
+H091,Care Hospitals - Delhi,Radiology,129,36,22,106,West
+H091,Care Hospitals - Delhi,General Medicine,128,45,73,92,East
+H091,Care Hospitals - Delhi,Dermatology,110,77,42,21,North
+H092,Rainbow Children's Hospital - Mumbai,Cardiology,125,90,62,73,East
+H092,Rainbow Children's Hospital - Mumbai,Neurology,187,63,66,40,East
+H092,Rainbow Children's Hospital - Mumbai,Orthopedics,105,62,31,87,South
+H092,Rainbow Children's Hospital - Mumbai,Emergency,78,37,13,37,South
+H092,Rainbow Children's Hospital - Mumbai,Pediatrics,48,36,19,37,South
+H092,Rainbow Children's Hospital - Mumbai,ICU,188,92,34,98,West
+H092,Rainbow Children's Hospital - Mumbai,Oncology,66,40,14,33,North
+H092,Rainbow Children's Hospital - Mumbai,Radiology,78,73,41,93,East
+H092,Rainbow Children's Hospital - Mumbai,General Medicine,69,39,26,106,North
+H092,Rainbow Children's Hospital - Mumbai,Dermatology,55,39,15,35,West
+H093,Artemis Hospital - Hyderabad,Cardiology,163,86,22,92,South
+H093,Artemis Hospital - Hyderabad,Neurology,170,71,27,57,East
+H093,Artemis Hospital - Hyderabad,Orthopedics,64,27,10,95,West
+H093,Artemis Hospital - Hyderabad,Emergency,155,27,32,57,North
+H093,Artemis Hospital - Hyderabad,Pediatrics,58,46,38,58,West
+H093,Artemis Hospital - Hyderabad,ICU,182,135,69,73,South
+H093,Artemis Hospital - Hyderabad,Oncology,195,140,44,115,West
+H093,Artemis Hospital - Hyderabad,Radiology,152,73,10,108,West
+H093,Artemis Hospital - Hyderabad,General Medicine,77,27,72,90,South
+H093,Artemis Hospital - Hyderabad,Dermatology,58,57,27,81,North
+H094,Kauvery Hospital - Chennai,Cardiology,54,45,75,103,East
+H094,Kauvery Hospital - Chennai,Neurology,140,57,32,88,West
+H094,Kauvery Hospital - Chennai,Orthopedics,103,58,56,104,West
+H094,Kauvery Hospital - Chennai,Emergency,139,44,56,85,West
+H094,Kauvery Hospital - Chennai,Pediatrics,89,32,21,30,South
+H094,Kauvery Hospital - Chennai,ICU,133,56,33,60,West
+H094,Kauvery Hospital - Chennai,Oncology,160,90,50,72,East
+H094,Kauvery Hospital - Chennai,Radiology,119,48,25,46,South
+H094,Kauvery Hospital - Chennai,General Medicine,177,48,57,69,North
+H094,Kauvery Hospital - Chennai,Dermatology,91,73,74,43,South
+H095,Sri Ramachandra Medical Centre - Bengaluru,Cardiology,100,38,14,110,East
+H095,Sri Ramachandra Medical Centre - Bengaluru,Neurology,150,20,76,57,West
+H095,Sri Ramachandra Medical Centre - Bengaluru,Orthopedics,153,96,14,80,South
+H095,Sri Ramachandra Medical Centre - Bengaluru,Emergency,113,87,15,117,North
+H095,Sri Ramachandra Medical Centre - Bengaluru,Pediatrics,171,142,71,33,West
+H095,Sri Ramachandra Medical Centre - Bengaluru,ICU,194,25,79,52,North
+H095,Sri Ramachandra Medical Centre - Bengaluru,Oncology,121,109,30,82,West
+H095,Sri Ramachandra Medical Centre - Bengaluru,Radiology,67,24,55,114,South
+H095,Sri Ramachandra Medical Centre - Bengaluru,General Medicine,166,102,11,79,South
+H095,Sri Ramachandra Medical Centre - Bengaluru,Dermatology,148,41,40,43,North
+H096,Christian Medical College Vellore - Kolkata,Cardiology,117,27,60,51,South
+H096,Christian Medical College Vellore - Kolkata,Neurology,83,44,59,42,North
+H096,Christian Medical College Vellore - Kolkata,Orthopedics,188,136,20,33,North
+H096,Christian Medical College Vellore - Kolkata,Emergency,94,23,70,49,West
+H096,Christian Medical College Vellore - Kolkata,Pediatrics,139,31,61,78,North
+H096,Christian Medical College Vellore - Kolkata,ICU,188,132,65,120,West
+H096,Christian Medical College Vellore - Kolkata,Oncology,174,37,58,42,West
+H096,Christian Medical College Vellore - Kolkata,Radiology,137,82,22,116,East
+H096,Christian Medical College Vellore - Kolkata,General Medicine,56,47,79,42,West
+H096,Christian Medical College Vellore - Kolkata,Dermatology,133,94,73,25,North
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Cardiology,153,75,30,34,South
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Neurology,155,38,27,30,East
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Orthopedics,71,69,66,103,North
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Emergency,195,123,29,78,South
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Pediatrics,67,47,70,46,East
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,ICU,185,178,29,90,East
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Oncology,76,47,72,86,West
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Radiology,63,48,74,55,North
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,General Medicine,122,58,79,64,North
+H097,Kokilaben Dhirubhai Ambani Hospital - Pune,Dermatology,72,21,62,33,South
+H098,Gleneagles Global Hospital - Ahmedabad,Cardiology,136,85,70,51,West
+H098,Gleneagles Global Hospital - Ahmedabad,Neurology,43,23,44,54,West
+H098,Gleneagles Global Hospital - Ahmedabad,Orthopedics,163,45,56,87,South
+H098,Gleneagles Global Hospital - Ahmedabad,Emergency,166,162,22,113,South
+H098,Gleneagles Global Hospital - Ahmedabad,Pediatrics,131,96,74,49,South
+H098,Gleneagles Global Hospital - Ahmedabad,ICU,184,164,19,95,West
+H098,Gleneagles Global Hospital - Ahmedabad,Oncology,188,74,63,84,West
+H098,Gleneagles Global Hospital - Ahmedabad,Radiology,108,40,25,60,North
+H098,Gleneagles Global Hospital - Ahmedabad,General Medicine,60,28,60,28,North
+H098,Gleneagles Global Hospital - Ahmedabad,Dermatology,190,36,27,87,South
+H099,HCG Cancer Centre - Lucknow,Cardiology,162,144,50,68,East
+H099,HCG Cancer Centre - Lucknow,Neurology,88,47,72,74,West
+H099,HCG Cancer Centre - Lucknow,Orthopedics,98,40,63,116,East
+H099,HCG Cancer Centre - Lucknow,Emergency,81,47,63,118,West
+H099,HCG Cancer Centre - Lucknow,Pediatrics,153,74,13,31,East
+H099,HCG Cancer Centre - Lucknow,ICU,74,72,35,63,South
+H099,HCG Cancer Centre - Lucknow,Oncology,164,88,40,56,North
+H099,HCG Cancer Centre - Lucknow,Radiology,157,38,61,38,West
+H099,HCG Cancer Centre - Lucknow,General Medicine,142,75,43,81,East
+H099,HCG Cancer Centre - Lucknow,Dermatology,173,131,13,102,East
+H100,JIPMER Hospital - Vijayawada,Cardiology,138,52,25,49,North
+H100,JIPMER Hospital - Vijayawada,Neurology,45,32,61,70,North
+H100,JIPMER Hospital - Vijayawada,Orthopedics,79,59,73,38,East
+H100,JIPMER Hospital - Vijayawada,Emergency,125,35,35,113,East
+H100,JIPMER Hospital - Vijayawada,Pediatrics,145,20,16,29,East
+H100,JIPMER Hospital - Vijayawada,ICU,173,23,61,90,North
+H100,JIPMER Hospital - Vijayawada,Oncology,54,47,53,95,East
+H100,JIPMER Hospital - Vijayawada,Radiology,40,26,61,47,South
+H100,JIPMER Hospital - Vijayawada,General Medicine,150,63,39,80,East
+H100,JIPMER Hospital - Vijayawada,Dermatology,45,30,47,46,South
