@@ -33,3 +33,4 @@ raw = pat.merge(
 
 # Save raw merged data
 raw.to_csv(raw_path, index=False)
+print("Data loaded successfully")
